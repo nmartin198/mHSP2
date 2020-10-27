@@ -7,7 +7,7 @@ to facilitate standalone use of this program.
 **mHSP2** is a port of [HSPsquared](https://github.com/respec/HSPsquared) created 
 specifically for coupled simulation with MODFLOW 6.
 [HSPsquared](https://github.com/respec/HSPsquared) is an HSPF variant 
-that was rewritten in pure Python. mHSP2 only provides the water 
+that was rewritten in pure Python. **mHSP2** only provides the water 
 movement and storage capabilities of [HSPsquared](https://github.com/respec/HSPsquared).
 
 The main difference between **mHSP2** and [HSPsquared](https://github.com/respec/HSPsquared) 
@@ -23,8 +23,9 @@ module instance.
 
 ## Getting Started
 
-The Python source code for **mHSP2** is in the [*src*]() directory. The best way
-to start is to go through the [HSPF Standalone Example Model](https://nmartin198.github.io/pyHS2MF6/cs_sa_HSPF.html) 
+The Python source code for **mHSP2** is in the [*src*](https://github.com/nmartin198/mHSP2/tree/main/src) 
+directory. The best way to start is to go through the 
+[HSPF Standalone Example Model](https://nmartin198.github.io/pyHS2MF6/cs_sa_HSPF.html) 
 in the **pyHS2MF6** documentation and run that model and verify that obtain 
 similar results.
 
