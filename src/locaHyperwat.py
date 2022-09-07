@@ -816,6 +816,8 @@ def setMonthlyParams( targID, monName, monTuple ):
     # start
     if monName == "LZETPM":
         LZEPTM[ targID ][:] = np.array( monTuple )
+    elif monName == "ZETPM":
+        LZEPTM[ targID ][:] = np.array( monTuple )
     elif monName == "CEPSCM":
         CEPSCM[ targID ][:] = np.array( monTuple )
     elif monName == "INTFWM":
