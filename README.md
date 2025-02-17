@@ -1,4 +1,4 @@
-# mHSP2
+# mHSP2 – A Pure Python Hydrological Simulation Program–FORTRAN (HSPF) Variant
 
 **mHSP2** is the HSPF variant used in the [**pyHS2MF6**](https://nmartin198.github.io/pyHS2MF6/)
 integrated hydrologic model. It has been separated out from **pyHS2MF6** 
@@ -50,7 +50,7 @@ The general procedure for contributing is as follows.
 
 ## Author
 
-* **Nick Martin** nmartin@swri.org
+* **Nick Martin** nick.martin@alumni.stanford.edu
 
 ## License
 
